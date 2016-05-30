@@ -1,3 +1,3 @@
 # WeatherApp
 
-I create to Simple App display weather hourly and daily for use api forecast.io 
+I create to Simple App display weather hourly and daily for use API forecast.io
